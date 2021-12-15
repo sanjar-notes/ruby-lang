@@ -18,13 +18,14 @@ There are three modes to this shortcut
 How it works - Using this basically creates methods
      - getters/setters or both. Without us having to code.
 
-    -- Syntax --
-    attr_read  :var1, :var2
+    -- Syntax (Inside) --
+        attr_read  :var1, :var2
 
-    - Colon is part of the variable.
-    - And no @ symbol needed (for access outside too).
-
-    This can be kept anywhere in the class, but outside of methods.
+        - Colon is part of the variable.
+        - And no @ symbol needed (for access outside too).
+        This can be kept anywhere in the class, but outside of methods.
+    -- Syntax (Outside) --
+        dot operator (without colons)
 =end
 
 class Car
