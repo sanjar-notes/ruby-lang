@@ -1,3 +1,4 @@
+# variable declaration, just like Python. No need to add 'let' or anything.
 cars = 100
 space_in_a_car = 4
 drivers = 30
