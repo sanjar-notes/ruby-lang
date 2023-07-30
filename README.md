@@ -1,4 +1,4 @@
-# ruby-lang
+# ruby-lang (moved to the Rails repo https://www.github.com/sanjar-notes/ruby-on-rails)
 An understanding of Ruby
 
 Instructions:
